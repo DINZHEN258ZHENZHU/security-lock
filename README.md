@@ -11,7 +11,12 @@ Picture this: you're happily coding away, sipping your third coffee of the night
 Watch this viedio : https://youtu.be/fae5vs6ps2U
 
 
-## Features
+## Development Process
+**Methodology**: Agile development with 2-week sprints  
+**Rationale**:
+- Optimal for 3-person team collaboration
+- Enables rapid iteration based on testing feedback
+- Supports parallel module development
 
 ### Core Features
 
@@ -256,7 +261,12 @@ To create a standalone `.exe`:
 
 ## License
 
+
 Provided as-is, no warranty. Use at your own risk. The developers are not liable for data loss, system damage, or family feuds over locked computers, especially if you enable disk formatting.
 
 ---
+
+![image](https://github.com/user-attachments/assets/be02faf8-9e07-49f1-81d9-c4096849631d)
+
+![image](https://github.com/user-attachments/assets/d6bdfb92-095e-40c6-928b-e970a912fab1)
 
